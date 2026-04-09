@@ -2,19 +2,7 @@
 
 💻 Full Stack Developer | Competitive Programmer  
 
-🎓 B.Tech CSIT at KIET Group of Institutions  
-📊 CGPA: 7.92  
-
----
-
-## 🧑‍💻 About Me
-
-- 🎓 B.Tech in **Computer Science & Information Technology**
-- 🏫 **KIET Group of Institutions, Ghaziabad**
-- 💡 Interested in **Full Stack Development & Competitive Programming**
-- 🧠 Strong foundation in **Data Structures & Algorithms**
-- 🚀 Solved **1000+ problems across coding platforms**
-- 🏆 **LeetCode Knight (Top 5% globally)**
+🎓 B.Tech CSIT at KIET Group of Institutions   
 
 ---
 
@@ -55,13 +43,6 @@ Git • GitHub • Axios • Clerk • Inngest
 | LeetCode Rank | **Knight (Top 5% globally)** |
 
 
-# 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akp2636&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akp2636&layout=compact&theme=tokyonight)
-
----
 
 # ⚡ Tech Stack
 
