@@ -8,7 +8,7 @@
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayush-kr-pandey-37870127a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayush-kumar-pandey-37870127a/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/0oNlEAWQzS/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/ayushpan263)
 
