@@ -38,13 +38,9 @@ Git • GitHub • Axios • Clerk • Inngest
 | Total Problems Solved | **1000+ across all platforms** |
 | Active Coding Days | **400+ days** |
 | Maximum Streak | **230+ days** |
-| CodeChef Rating | **1500+ (2⭐)** |
-| Codeforces Rating | **1100+** |
 | LeetCode Rank | **Knight (Top 5% globally)** |
 
 
-
-# ⚡ Tech Stack
 
 ![Tech Stack](https://skillicons.dev/icons?i=java,python,cpp,c,js,react,nextjs,nodejs,express,mongodb,mysql,postgres,git,github)
 
