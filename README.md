@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Ayush Kumar Pandey
+#  Hey, I'm Ayush Kumar Pandey
 
 💻 Full Stack Developer | Competitive Programmer  
 
