@@ -1,6 +1,6 @@
 #  Hey, I'm Ayush Kumar Pandey
 
-💻 Full Stack Developer | Competitive Programmer  | AWS | DevOps 
+💻 Backend Developer | Competitive Programmer  | AWS | DevOps 
 
 🎓 B.Tech CSIT at KIET Group of Institutions   
 
